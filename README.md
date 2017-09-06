@@ -1,6 +1,8 @@
 # vuecoinmarket
 
-> A Vue.js project
+![alt text](./cryptocoinmarket-img.png)
+
+> A Vue.js project that uses the Coin Market Cap's public API
 
 ## Build Setup
 
